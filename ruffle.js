@@ -2001,7 +2001,7 @@
 			},
 			903: (e, t, n) => {
 				"use strict";
-				e.exports = " d.wasm"
+				e.exports = "https://cdn.jsdelivr.net/gh/WaterZ-dev/FlashPlayer/d6dd295efb44ba365d0d.wasm"
 			}
 		},
 		r = {};
